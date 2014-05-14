@@ -1,0 +1,58 @@
+/* base */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+body{background:#fff;font:12px "\5B8B\4F53", Arial;color:#555;}
+ol,ul{ list-style:none;}
+a{outline-style:none;color:#555;text-decoration:none; }
+a:hover{color:#cc0000;text-decoration:underline;}
+.fl{float:left;display:inline;}
+.fr{float:right;display:inline;}
+/* mini nav css */
+.divzxserv20120704Headerbox { width:950px; height:30px; padding:0 5px; margin:0 auto; background:#f5f5f5; color:#555; border-bottom:1px solid #eee; clear:both; overflow:hidden; }
+.divzxserv20120704Headerleft { float:left; display:inline; height:30px; line-height:30px; overflow:hidden; }
+.divzxserv20120704Headerright { float:right; display:inline; height:30px; line-height:30px; overflow:hidden; }
+.minav_ri li { float:left; overflow:hidden; }
+.divzxserv20120704Headerbox .divzxserv20120704Headerright {
+    color: #555555;
+    float: right;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+}
+.divzxserv20120704Headerbox .divzxserv20120704Headerright li {
+    float: left;
+    overflow: hidden;
+}
+.divzxserv20120704Headerbox .divzxserv20120704Headerleft {
+    float: left;
+    height: 30px;
+    letter-spacing: 0.08px;
+    line-height: 30px;
+    overflow: hidden;
+    word-spacing: 1px;
+}
+.divzxserv20120704fL{float:left;}
+/* login css */
+.tc_box1{width:358px;border:#b4b4b4 1px solid;background:#fff;overflow:hidden;}
+.tc_box1_title{width:340px;height:30px;background:url("http://img2.soufun.com/blog/blogweb/login/tc_box1_titbg.jpg") repeat-x;padding:0 9px;margin:0;overflow:hidden;}
+.tc_b1_t_left{float:left;line-height:29px;font-size:14px;font-weight:bold;color:#4b4b4b;overflow:hidden;}
+.tc_b1_t_right{display:block;cursor:pointer;float:right;width:8px;height:8px;background:url("http://img2.soufun.com/blog/blogweb/login/tc_box1_close.gif") no-repeat;margin:10px 0;padding:0;overflow:hidden;}
+.tc_box1_comment{width:300px;padding:0 29px;margin:0;overflow:hidden;}
+.tc_b1_c_up{width:280px;padding:0 10px;margin:0;list-style-type:none;overflow:hidden;  height:115px;}
+.tc_b1_c_up dl{width:280px;height:24px;padding:0;margin:15px 0 0;overflow:hidden; }
+.tc_b1_c_up dl dt{float:left;width:60px;line-height:24px;padding:0;margin:0;font-size:14px;color:#516592;overflow:hidden;}
+.tc_b1_c_up dl dd{float:right;width:220px;height:24px;padding:0;margin:0;font-size:12px;overflow:hidden; }
+.tc_b1_c_down{width:300px;height:43px;line-height:43px;border-top:#7e9ba7 1px dashed;padding:0;margin:20px 0 0 0;font-size:12px;list-style-type:none;text-align:center;overflow:hidden;}
+.inp_frame1{width:194px;height:20px;line-height:20px;border:#baced6 1px solid;background:#fff;padding:0 2px;margin:0;color:#333;}
+.inp_space{margin-right:14px;}
+.inp_space{margin-right:14px;}
+.inp_btns_01{cursor:pointer;float:left;width:70px;height:22px;line-height:22px;background:url("http://img2.soufun.com/blog/blogweb/login/tc_box1_btns_01.jpg") no-repeat;border:0;margin:0 20px 0 0;padding:0;text-align:center;letter-spacing:3px;overflow:hidden;}
+.inp_word{float:left;height:22px;line-height:22px;margin:0;padding:0;color:#0037aa;overflow:hidden;}
+a.inp_link,a.inp_link:visited{font-size:12px;color:#0037aa;text-decoration:underline;}
+a.inp_link:hover{font-size:12px;color:#0037aa;text-decoration:none;}
+.div20120531fL{float:left;}
+.div20120531Headerbox{clear:both;overflow:hidden;width:960px;height:28px;background:#fff repeat;font-size:12px;font-family:'宋体';line-height:28px;margin:0 auto;border-bottom:1px solid #dedede;}
+.div20120531Headerbox .div20120531Headerright{float:right;color:#333;overflow:hidden;height:28px;line-height:28px;}
+.div20120531Headerbox .div20120531Headerleft{float:left;letter-spacing:0.08px;word-spacing:1px;overflow:hidden;height:28px;line-height:28px;}
+.div20120531Headerbox .div20120531Headerleft strong{font-weight:normal;}
+.div20120531Inputtxt{float:left;margin:0;padding:0;border:0;margin:3px 6px 3px 0px;overflow:hidden;width:84px;height:20px;line-height:20px;border-top:1px solid #acaead;border-left:1px solid #dedfe1;border-right:1px solid #dedfe1;border-bottom:1px solid #e7e8ea;background:#fff repeat;color:#888;padding:0 3px;}
+.div20120531Inputbtn{float:left;margin:0;padding:0;border:0;margin:3px 15px 0 2px;overflow:hidden;width:44px;height:22px;padding:1px 0;padding:5px 0\a;text-align:center;background:url(http://img1.soufun.com/house/images/header20120531btn.gif) no-repeat;cursor:pointer;}
